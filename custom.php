@@ -1,3 +1,4 @@
+<?php
 /**
 
 * Add custom field to the checkout page
